@@ -1,17 +1,30 @@
 # jiusheng.github.io
-   基于Harmoney OS NEXT 星河版本 框架更新通知
-1.全新架构 基于Linux ARMv8.2 版本制作 HUAWEI专属适配
-2.基于HMSCore 框架 采用HarmoneyOS 独立调用 多任务处理更好适配AndriodSDK
-3. 全新HUAWEI CDN服务 采用HTSL CDN技术 进行网络处理加速 采用网众CDN节点
-4.全新卡密验证系统 采用lib_SYSTEM 调用Harmoney OS NEXT 底层运行 本地注册机
-5.全新UI设计UI基于Andriod14BateSDK 采用SSLinux JavaHarmoneyCore 方式调用
-6.全新设计 原生应用hap文件 小巧 解析快速 运行流程 占用极小 采用系统自适应方案优化运行
-7.增加Linux Edwad后台常驻服务 开放 SYSTEM 监视接口 防止游戏环境异常闪退
-8.全新Bypass(旁路)连接方式 更稳定 放踢 裸奔无七条
-注意支持机型：HUAWEI Mate30/40/60全系列麒麟版
-                        HUAWEI P40/50麒麟版 and pora70系列
-                         HUAWEI  nova611/12 除se 麒麟版
-      剩下的等待适配 鸿蒙版本必须3.0及以上 推荐最新4.2版本
-注：平板只支持matepad pro2022 此版本 剩下的 dpi问题 渲染/贴图 概率错误 谨慎使用
-
- by久笙团队· 5-20
+传统的时钟通常使用数字或指针来显示时间，而罗盘时钟通过模拟罗盘的指针来展示时间。
+有三个壁纸 持续更新
+1. bzdyyds.github.io/index.html
+2. bzdyyds.github.io/index2.html
+3. bzdyyds.github.io/2233.html
+全部采用HTML+CSS+JS 前端三件套开发
+基于Github Pages 部署
+关于我是谁
+1.我是个勤奋的码农
+2.学过C++ Java Python PHP HTML CSS JS
+3.一个热爱公益的的码农
+注：全部可以放进Wallpaper Engine 壁纸引擎 当作壁纸使用
+特别谢明：
+Github （HongKong）  Inc.
+LINTX    (广州)   工作室
+程优科技（广州）  工作室
+Edwad科技（广州） 工作室
+广州笙友网络科技有限公司
+广州电信网络股份有限公司
+广州联合通信网络有限公司
+广州移动通信网络有限公司
+中国广电网络广东有限公司
+广州铁通网络通信有限公司
+广州铁塔网络通信有限公司
+香港电信网络通信有限公司
+鹏博士通信集团(广东)公司
+上海腾讯科技控股有限公司
+中国信通院广东网络办公司
+广州龙涛教育集团股份有限公司
