@@ -9,10 +9,13 @@
 基于Github Pages 部署
 
 关于我是谁
+
 1.我是个勤奋的码农
+
 2.学过C++ Java Python PHP HTML CSS JS
-3.一个热爱公益的的码农
+
 注：全部可以放进Wallpaper Engine 壁纸引擎 当作壁纸使用
+
 
 6.特别谢明：
 
