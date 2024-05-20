@@ -1,0 +1,117 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "没办法发布预设到创意工坊，只能重新上传一份了\r\n由于移动端壁纸引擎不支持网页壁纸，本壁纸不能发送至移动设备！\r\n原静态壁纸：https://h.bilibili.com/17869\r\n原壁纸：https://steamcommunity.com/sharedfiles/filedetails/?id=1551961057\r\n作者：GEEKiDoS  若侵权删除\r\nBGM插件需要每次都用管理员模式打开的，或者设个开机启动。\r\nBGM插件请勿点击软件的更新，等待壁纸更新即可。\r\n如有问题可以加好友。\r\n更新日志：\r\n-----2022/04/13-----\r\n酷狗音乐有时无法显示歌词的问题\r\n\r\n-----2022/01/05-----\r\n小葫芦打开后默认最小化\r\nEnglish Version（英文界面）\r\n\r\n-----2021/07/31-----\r\n新增可选英文月份\r\n\r\n-----2021/04/27-----\r\n更新BGM插件至3.1.7版本\r\n·优化软件稳定性\r\n\r\n-----2021/03/12-----\r\n将歌曲信息后台未打开提醒更改至歌曲标题栏\r\n将歌曲进度条最大值调为歌曲总长的1.1倍\r\n修复第一周从周日开始导致日历第一条为空的bug\r\n\r\n-----2021/02/01-----\r\n更新BGM插件至3.1.6版本\r\n·支持QQ音乐、网易云音乐最新版\r\n·修复相关bug，优化流程\r\n\r\n-----2021/01/31-----\r\n更新BGM插件至3.1.5版本\r\n提高歌曲信息显示灵敏度\r\n\r\n-----2019/08/19-----\r\n更新BGM插件至3.1.4版本（一天迷茫的弄好了）\r\n修改部分标签",
+	"file" : "2233.html",
+	"general" : 
+	{
+		"localization" : 
+		{
+			"en-us" : 
+			{
+				"ui_disableRili" : "Disable calendar",
+				"ui_enmonth" : "Enable English Months",
+				"ui_phoneText" : "Text on the Phone",
+				"ui_screenFile" : "Picture in the upper left corner of the screen",
+				"ui_showSongInfo" : "Enable display of song information",
+				"ui_showSongInfoDesc" : "Note: it is necessary to start the BGM.exe where in the wallpaper folder, and enter the 'backend' folder.",
+				"ui_tip" : "You need to install any of QQ Music, Netease Cloud Music or KuGou Music.",
+				"ui_tip2" : "(JSON format)"
+			},
+			"zh-chs" : 
+			{
+				"ui_disableRili" : "禁用日历",
+				"ui_enmonth" : "启用英文月份",
+				"ui_phoneText" : "手机上的文字",
+				"ui_screenFile" : "左上角屏幕上的图片",
+				"ui_showSongInfo" : "启用显示歌曲信息（实验性!!!）",
+				"ui_showSongInfoDesc" : "注:需要启动修改版的小葫芦BGM插件控制台；右键该壁纸，点击在\\\"文件资源管理器中打开\\\", 进入Backend文件夹，启动BGM.exe即可",
+				"ui_tip" : "Backend1文件夹为更新之前3.0版本，新版本为3.1.7",
+				"ui_tip2" : "（JSON格式 建议外部编辑好再复制过来）"
+			}
+		},
+		"properties" : 
+		{
+			"disableRili" : 
+			{
+				"index" : 3,
+				"order" : 103,
+				"text" : "ui_disableRili",
+				"type" : "bool",
+				"value" : false
+			},
+			"enmonth" : 
+			{
+				"index" : 4,
+				"order" : 104,
+				"text" : "ui_enmonth",
+				"type" : "bool",
+				"value" : false
+			},
+			"phoneText" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "ui_phoneText",
+				"type" : "textinput",
+				"value" : "[{\"time\":0,\"text\":\"凌晨啦!\"},{\"time\":6,\"text\":\"早上好!\"},{\"time\":8,\"text\":\"上午好!\"},{\"time\":11,\"text\":\"你吃了吗\"},{\"time\":13,\"text\":\"下午好鸭!\"},{\"time\":16,\"text\":\"傍晚咯!\"},{\"time\":19,\"text\":\"晚安!\"}]"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.25882352941176473 0.8352941176470589 1"
+			},
+			"screenFile" : 
+			{
+				"fileType" : "image",
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_screenFile",
+				"type" : "file",
+				"value" : ""
+			},
+			"showSongInfo" : 
+			{
+				"index" : 5,
+				"order" : 105,
+				"text" : "ui_showSongInfo",
+				"type" : "bool",
+				"value" : false
+			},
+			"showSongInfoDesc" : 
+			{
+				"index" : 6,
+				"order" : 106,
+				"text" : "ui_showSongInfoDesc",
+				"type" : "text",
+				"value" : ""
+			},
+			"tip" : 
+			{
+				"index" : 7,
+				"order" : 107,
+				"text" : "ui_tip",
+				"type" : "text",
+				"value" : ""
+			},
+			"tip2" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "ui_tip2",
+				"type" : "text",
+				"value" : ""
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "哔哩哔哩音频响应壁纸 BGM更新版",
+	"type" : "web",
+	"version" : 10,
+	"visibility" : "public",
+	"workshopid" : "1839547184",
+	"workshopurl" : "steam://url/CommunityFilePage/1839547184"
+}
