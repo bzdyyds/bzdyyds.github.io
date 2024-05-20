@@ -1,4 +1,4 @@
-# jiusheng.github.io
+#作者的话
 传统的时钟通常使用数字或指针来显示时间，而罗盘时钟通过模拟罗盘的指针来展示时间。
 有三个壁纸 持续更新
 1. bzdyyds.github.io/index.html
